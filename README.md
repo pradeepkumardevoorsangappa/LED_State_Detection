@@ -1,12 +1,14 @@
 # Instructions for running Green_LED.py:
 1. If Python is not already installed, install it first.
 2. Open the command prompt and install the following Python libraries using pip:
+
     • pip install matplotlib
     • pip install matplotlib-inline
     • pip install numpy
     • pip install opencv-python
     • pip install opencv-contrib-python
     • pip install opencv-python-headless
+
 3. Open the program "Green_LED.py" in your preferred integrated development environment (IDE), such as JupyterLab, PyCharm, or VS Code.
 4. If you are using an external camera connected to your laptop, change the video source from '0' to '1'.
     • Or simply, then disable the laptop camera fromthe  Device manager.
